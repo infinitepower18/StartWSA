@@ -1,4 +1,5 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/infinitepower18/startwsa/total)
+[![Android CI](https://github.com/infinitepower18/StartWSA/actions/workflows/android.yml/badge.svg)](https://github.com/infinitepower18/StartWSA/actions/workflows/android.yml)
 ![GitHub](https://img.shields.io/github/license/infinitepower18/startwsa)
 
 # Start WSA
