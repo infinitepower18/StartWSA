@@ -5,5 +5,7 @@
 # Start WSA
 Start the Windows Subsystem for Android with one click.
 
+**NOTE:** Development of the project has ended as similar functionality has been implemented in the new [WSA System Control](https://github.com/infinitepower18/WSA-SystemControl) application.
+
 ## Download
 Download the app from the [releases page](https://github.com/infinitepower18/StartWSA/releases/latest) and sideload it into WSA. You can use [WSA Sideloader](https://github.com/infinitepower18/WSA-Sideloader) to simplify the process.
